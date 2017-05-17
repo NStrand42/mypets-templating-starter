@@ -53,6 +53,10 @@
             <?php else: ?>It's been a while!
         <?php endif; ?> 
         
+        <!-- printing objects -->
+        <h3>My Pet</h3>
+        <p><?= $myPet->getName() ?></p>
+        <p><?= $myPet->getColor() ?></p> 
         
     </body>
 </html>

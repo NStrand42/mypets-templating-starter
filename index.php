@@ -34,6 +34,11 @@
         $f3->set('preferredCustomer', true);
         $f3->set('lastLogin', strtotime('-1 year')); 
         
+        //objects
+        $pet = new Pet('Caleb', 'purple');
+        $f3->set('myPet', $pet);
+        
+        
         //load a template
         echo Template::instance()->render('pages/info.html');
         
