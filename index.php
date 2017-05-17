@@ -38,6 +38,9 @@
         $pet = new Pet('Caleb', 'purple');
         $f3->set('myPet', $pet);
         
+        $pet = new Pet('Henrietta', 'pink');
+        $f3->set('myPet2', $pet);
+        
         
         //load a template
         echo Template::instance()->render('pages/info.html');

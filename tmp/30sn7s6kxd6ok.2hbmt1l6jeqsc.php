@@ -58,6 +58,12 @@
         <p><?= $myPet->getName() ?></p>
         <p><?= $myPet->getColor() ?></p> 
         
+        <?php if ($myPet->getColor() == $myPet2->getColor()): ?>
+            <img id="irc_mi" class="" src="http://pets.vethospitals.ufl.edu/files/2012/04/Ocala_main.jpg" alt="" width="158" height="107">
+            <?php else: ?>Those are not the same color
+        <?php endif; ?> 
+        
+        
     </body>
 </html>
 
