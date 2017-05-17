@@ -96,3 +96,23 @@
 [06-May-2017 16:21:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 32
 [06-May-2017 16:21:29 America/Chicago] Fatal error: syntax error, unexpected '}'
 [06-May-2017 16:21:29 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:32] 
+[16-May-2017 21:02:08 America/Chicago] PHP Fatal error:  Call to undefined function sha3() in /home/nstrand/public_html/IT328/mypets-templating-starter/index.php on line 15
+[16-May-2017 21:02:08 America/Chicago] Fatal error: Call to undefined function sha3()
+[16-May-2017 21:02:08 America/Chicago] [IT328/mypets-templating-starter/index.php:15] 
+[16-May-2017 21:10:09 America/Chicago] PHP Parse error:  syntax error, unexpected '–' (T_STRING), expecting ',' or ';' in /home/nstrand/public_html/IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php on line 16
+[16-May-2017 21:10:09 America/Chicago] Fatal error: syntax error, unexpected '–' (T_STRING), expecting ',' or ';'
+[16-May-2017 21:10:09 America/Chicago] [IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php:16] 
+[16-May-2017 21:10:33 America/Chicago] PHP Parse error:  syntax error, unexpected '–' (T_STRING), expecting ',' or ';' in /home/nstrand/public_html/IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php on line 16
+[16-May-2017 21:10:33 America/Chicago] Fatal error: syntax error, unexpected '–' (T_STRING), expecting ',' or ';'
+[16-May-2017 21:10:33 America/Chicago] [IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php:16] 
+[16-May-2017 21:11:30 America/Chicago] PHP Parse error:  syntax error, unexpected '–' (T_STRING), expecting ',' or ';' in /home/nstrand/public_html/IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php on line 16
+[16-May-2017 21:11:30 America/Chicago] Fatal error: syntax error, unexpected '–' (T_STRING), expecting ',' or ';'
+[16-May-2017 21:11:30 America/Chicago] [IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php:16] 
+[16-May-2017 21:12:21 America/Chicago] PHP Parse error:  syntax error, unexpected '–' (T_STRING), expecting ',' or ';' in /home/nstrand/public_html/IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php on line 16
+[16-May-2017 21:12:21 America/Chicago] Fatal error: syntax error, unexpected '–' (T_STRING), expecting ',' or ';'
+[16-May-2017 21:12:21 America/Chicago] [IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php:16] 
+[16-May-2017 21:45:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''strawberry'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/nstrand/public_html/IT328/mypets-templating-starter/index.php on line 31
+[16-May-2017 21:47:40 America/Chicago] Illegal string offset 'desserts'
+[16-May-2017 21:47:40 America/Chicago] [IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php:38] Base->{closure}()
+[16-May-2017 21:47:40 America/Chicago] [IT328/mypets-templating-starter/index.php:34] Preview->render()
+[16-May-2017 21:47:40 America/Chicago] [IT328/mypets-templating-starter/index.php:39] Base->run()
