@@ -30,6 +30,10 @@
                                     'vanilla' => 'Vanilla Custard',
                                     'strawberry' => 'Strawberry Shortcake'));
         
+        //conditional content
+        $f3->set('preferredCustomer', true);
+        $f3->set('lastLogin', strtotime('-1 year')); 
+        
         //load a template
         echo Template::instance()->render('pages/info.html');
         

@@ -42,6 +42,17 @@
             </div>
         </div>
         
+        <!-- conditional content -->
+        <h3>Message</h3>
+        <?php if ($preferredCustomer): ?>
+            <strong>Thank you for being a preferred customer!</strong><br>
+        <?php endif; ?>
+        
+        <?php if ($lastLogin > strtotime('-1 month')): ?>
+            Welcome back!
+            <?php else: ?>It's been a while!
+        <?php endif; ?> 
+        
         
     </body>
 </html>
