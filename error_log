@@ -116,3 +116,28 @@
 [16-May-2017 21:47:40 America/Chicago] [IT328/mypets-templating-starter/tmp/30sn7s6kxd6ok.2hbmt1l6jeqsc.php:38] Base->{closure}()
 [16-May-2017 21:47:40 America/Chicago] [IT328/mypets-templating-starter/index.php:34] Preview->render()
 [16-May-2017 21:47:40 America/Chicago] [IT328/mypets-templating-starter/index.php:39] Base->run()
+[17-May-2017 20:45:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$f3' (T_VARIABLE) in /home/nstrand/public_html/IT328/mypets-templating-starter/index.php on line 57
+[17-May-2017 20:50:53 America/Chicago] Invalid hive key 'pet-color'
+[17-May-2017 20:50:53 America/Chicago] [IT328/mypets-templating-starter/index.php:56] Base->set()
+[17-May-2017 20:50:53 America/Chicago] [IT328/mypets-templating-starter/index.php:63] Base->run()
+[17-May-2017 20:51:22 America/Chicago] Invalid hive key 'pet-color'
+[17-May-2017 20:51:22 America/Chicago] [IT328/mypets-templating-starter/index.php:56] Base->set()
+[17-May-2017 20:51:22 America/Chicago] [IT328/mypets-templating-starter/index.php:63] Base->run()
+[17-May-2017 20:52:36 America/Chicago] Invalid hive key 'pet-color'
+[17-May-2017 20:52:36 America/Chicago] [IT328/mypets-templating-starter/index.php:53] Base->set()
+[17-May-2017 20:52:36 America/Chicago] [IT328/mypets-templating-starter/index.php:60] Base->run()
+[17-May-2017 20:54:18 America/Chicago] Invalid hive key 'pet-color'
+[17-May-2017 20:54:18 America/Chicago] [IT328/mypets-templating-starter/index.php:53] Base->set()
+[17-May-2017 20:54:18 America/Chicago] [IT328/mypets-templating-starter/index.php:60] Base->run()
+[17-May-2017 20:54:21 America/Chicago] Invalid hive key 'pet-color'
+[17-May-2017 20:54:21 America/Chicago] [IT328/mypets-templating-starter/index.php:53] Base->set()
+[17-May-2017 20:54:21 America/Chicago] [IT328/mypets-templating-starter/index.php:60] Base->run()
+[17-May-2017 20:55:30 America/Chicago] Invalid hive key 'pet-color'
+[17-May-2017 20:55:30 America/Chicago] [IT328/mypets-templating-starter/index.php:53] Base->set()
+[17-May-2017 20:55:30 America/Chicago] [IT328/mypets-templating-starter/index.php:60] Base->run()
+[17-May-2017 20:55:32 America/Chicago] Invalid hive key 'pet-color'
+[17-May-2017 20:55:32 America/Chicago] [IT328/mypets-templating-starter/index.php:53] Base->set()
+[17-May-2017 20:55:32 America/Chicago] [IT328/mypets-templating-starter/index.php:60] Base->run()
+[17-May-2017 20:56:10 America/Chicago] Invalid hive key 'pet-color'
+[17-May-2017 20:56:10 America/Chicago] [IT328/mypets-templating-starter/index.php:53] Base->set()
+[17-May-2017 20:56:10 America/Chicago] [IT328/mypets-templating-starter/index.php:60] Base->run()

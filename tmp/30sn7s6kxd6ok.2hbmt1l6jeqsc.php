@@ -63,6 +63,7 @@
             <?php else: ?>Those are not the same color
         <?php endif; ?> 
         
+        <a href="new-pet">Add a new pet</a>
         
     </body>
 </html>

@@ -47,6 +47,22 @@
         
     });
 
+    $f3->route('GET|POST /new-pet', function($f3) {
+        
+        if (isset($_POST['submit'])){
+            print_r($_POST);
+            
+            if(!validColor($_POST('pet-color'){
+                
+            }
+        }
+        
+        $f3->set('pet_color', array('--Select--','purple','pink','green'));
+    
+        echo Template::instance()->render('pages/add-pet.html');
+    });
+    
+    
     //Run fat free
     $f3->run();
     
